@@ -1,4 +1,5 @@
 Demo link: https://airbnb-clone-7da4e.web.app 
+(Not fully responsive)
 
 # Getting Started with Create React App
 
